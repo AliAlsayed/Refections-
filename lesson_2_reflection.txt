@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 	It makes the current directory a repo. to teach what you’re doing with it.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	staging area is the middle ground. It offers convenience in logistics.
