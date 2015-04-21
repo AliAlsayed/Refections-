@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	It makes the current directory a repo. to teach what you’re doing with it.
